@@ -2,16 +2,23 @@
 
 * [Welcome](README.md)
 
-## Getting Started
-
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
-
 ## Basics
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Intro](basics/editor.md)
+
+***
+
+* [Problem](problem.md)
+* [Solution](solution.md)
+* [Use case](use-case.md)
+* [Why Now?](why-now.md)
+
+## Strategy
+
+* [Normal grid](strategy/normal-grid.md)
+* [Log grid](strategy/log-grid.md)
+* [volume](strategy/volume.md)
+
+## VISION
+
+* [Omnis Manifesto](vision/omnis-manifesto.md)
