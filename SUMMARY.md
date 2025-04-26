@@ -10,13 +10,13 @@
 
 * [Problem](problem.md)
 * [Solution](solution.md)
-* [Use case](use-case.md)
+* [Use Case](use-case.md)
 * [Why Now?](why-now.md)
 
 ## Strategy
 
-* [Normal grid](strategy/normal-grid.md)
-* [Log grid](strategy/log-grid.md)
+* [Normal Grid](strategy/normal-grid.md)
+* [Log Grid](strategy/log-grid.md)
 * [volume](strategy/volume.md)
 
 ## VISION
