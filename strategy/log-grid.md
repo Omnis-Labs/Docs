@@ -1,3 +1,0 @@
-# Log grid
-
-TBD

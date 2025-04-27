@@ -15,9 +15,9 @@
 
 ## Strategy
 
-* [Normal Grid](strategy/normal-grid.md)
-* [Log Grid](strategy/log-grid.md)
-* [volume](strategy/volume.md)
+* [Aster Points Maximizer](strategy/aster-points-maximizer.md)
+* [Normal Grid Strategy](strategy/normal-grid-strategy.md)
+* [Logarithmic Grid Strategy](strategy/logarithmic-grid-strategy.md)
 
 ## VISION
 
