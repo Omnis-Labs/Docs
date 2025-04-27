@@ -1,28 +1,21 @@
----
-icon: hand-wave
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
+<img width="729" alt="image" src="https://github.com/user-attachments/assets/080c60ca-11ed-4d1c-96b3-8df9ac0a3eeb" />
 
-# Welcome
+# Welcome to Omnis
 
-DeFi was supposed to democratize finance.\
+DeFi was supposed to democratize finance.  
 Instead, it built a casino.
 
-Today, serious investors—whales, DAOs, funds, and even experienced individuals—still struggle to manage fragmented on-chain exposure. Risk control is manual. Strategy building is reserved for quant elites. Spreadsheets and dashboards remain the norm.
+Today, serious investors—whales, DAOs, funds, and experienced individuals—still struggle with fragmented on-chain exposure.  
+Risk control is manual. Strategy building is reserved for quant elites. Spreadsheets and dashboards are still the default.
 
-Omnis exists to change that.
+Omnis changes that.
+
+We’re building an AI-powered DeFi portfolio manager that makes real-time risk control, automated strategy optimization, and sustainable returns accessible to everyone — not just institutions.
+
+- No more spreadsheets.
+- No more blind bets.
+- No more guesswork.
+
+Omnis is the infrastructure for serious capital in DeFi.
+
+Welcome to the future of decentralized portfolio management.
