@@ -19,6 +19,10 @@
 * [Normal Grid Strategy](strategy/normal-grid-strategy.md)
 * [Logarithmic Grid Strategy](strategy/logarithmic-grid-strategy.md)
 
+## Technology Stack
+
+* [Architecture Overview](technology-stack/architecture-overview.md)
+
 ## VISION
 
 * [Omnis Manifesto](vision/omnis-manifesto.md)
